@@ -1,11 +1,23 @@
 {
-    "name": "angular-clearInput",
-    "version": "0.1.0",
-    "main": "build/js/angular-clearInput.js",
-    "ignore": [
-        ".gitignore"
-    ],
-    "dependencies": {
-        "angular": ">=1.1.0"
-    }
+  "name": "clearInput",
+  "version": "0.1.0",
+  "authors": [
+    "Mahmut Duva"
+  ],
+  "description": "An AngularJS directive for adding a clear button inside an input element",
+  "main": "build/js/angular-clearInput.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "clearInput"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
