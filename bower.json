@@ -1,0 +1,11 @@
+{
+    "name": "angular-clearInput",
+    "version": "0.1.0",
+    "main": "build/js/angular-clearInput.js",
+    "ignore": [
+        ".gitignore"
+    ],
+    "dependencies": {
+        "angular": ">=1.1.0"
+    }
+}
